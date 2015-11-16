@@ -1,0 +1,19 @@
+{
+    "bookname": "常用优秀NPM依赖包大集合 Top100 of Npms",
+    "description": "常用优秀NPM依赖包大集合",
+    "author": {
+        "name": "Imfly",
+        "email": "790506@gmail.com"
+    },
+
+    "ignores": ["backup", "_book"],
+    "homepage": "http://imfly.github.io/how-to-create-self-publishing-platform",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/imfly/most-depended-upon-packages.git"
+    },
+    "bugs": {
+        "url": "https://github.com/imfly/most-depended-upon-packages/issues"
+    }
+}
