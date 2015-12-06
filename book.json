@@ -5,7 +5,7 @@
         "name": "Imfly",
         "email": "790506@gmail.com"
     },
-
+    "version": 0.0.4,
     "ignores": ["backup", "_book"],
     "homepage": "http://imfly.github.io/how-to-create-self-publishing-platform",
     "license": "MIT",
